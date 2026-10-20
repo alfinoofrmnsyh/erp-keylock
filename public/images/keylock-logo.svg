@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 380" width="100%" height="100%">
+  <!-- Letter K Left Stem -->
+  <rect x="94" y="55" width="72" height="270" fill="#707276" rx="2" />
+  
+  <!-- Letter K Arms -->
+  <path d="M 188 190 L 280 55 L 362 55 L 246 208 Z" fill="#707276" />
+  <path d="M 215 168 L 366 325 L 282 325 L 170 205 Z" fill="#707276" />
+  
+  <!-- Yellow Dot at Top Right -->
+  <circle cx="420" cy="85" r="41" fill="#F8E738" />
+</svg>
